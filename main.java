@@ -5,7 +5,6 @@ public class Main {
         // Tela Inicial
         
         System.out.println("========== CONTROLE DE ESTOQUE ® ==========");
-        System.out.println("Aplicação por Jefferson Sant'ana e Helana Sousa");
         System.out.println("Direitos de cópia reservado\n");
         
     }
